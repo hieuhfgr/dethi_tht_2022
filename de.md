@@ -30,6 +30,7 @@ cau3.out
 cau4: Một câu chuyện xưa xửa xừa xưa... Lúc đó, bạn Mèo trong một thế giới cổ tích và bạn Mèo gặp một bà lão. Bởi vì bạn Mèo là người tốt bụng nên bạn Mèo giúp bà lão nhưng hóa ra bà lão bên cạnh bà lão bạn Mèo giúp là một thần tiên. Và không chờ bạn Mèo hoảng hốt, trước mặt bạn Mèo đã xuất hiện ra một cái bàn thiệc là bự, ở trên bàn có N đĩa kẹo được xếp thành 1 hàng (3 < N < 1000), mỗi đĩa chứa a[i] viên kẹo (1 <= i <= N) (1 <= a[i] <= 100). Bà lão nói rằng bạn Mèo có thể lấy được những đĩa kẹo trên bàn NHƯNG không được lấy ba đĩa kẹo liên tiếp nhau. Mặc dù là người tốt nhưng bạn Mèo lại quá tham lam. Vậy nên bạn hãy bạn Mèo cố gắng nhiều kẹo nhất có thể nhé ;)
 
 > yêu cầu: Tìm và in ra file cau4.out số kẹo nhiều nhất có thể lấy từ bà lão thần tiên
+
 dữ liệu vào: từ file cau4.inp:
     + dòng đầu là n tượng trưng cho số đĩa
     + dòng tiếp theo là n số tượng trưng cho số kẹo mỗi đĩa
