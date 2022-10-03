@@ -7,7 +7,7 @@ cau1: Tèo và bạn rất hứng thú với số 3. Một hôm nọ Tèo nghĩ 
 > ví dụ: 3025 = (30 + 25)^2
 ```
 
-cau2: Một hôm nọ. Tí đang nằm trên giường và hồi tưởng lớp 6. Lúc đó tí sang nhà crush của Tí chơi là được crush dạy về bài số nguyên tố - hợp số. Tí lúc đó đang mải mê ngắm crush nên không chú ý. Bất chợt crush hỏi tí rằng: "Cậu có thể nào tìm cho tớ số nguyên tố bé nhất nhưng mà lớn hơn N được honggg :3". Nghe thấy thế, Tí liền khoái chí nhưng cậu ta rất dở về Toán nên cậu ta nhờ bạn xử lí vụ này (Nếu *phi vụ* thành công thì bạn sẽ nhận được crush của Tí) (Nếu bạn hỏi đây chỉ là hồi tưởng thì bạn nhầm rồi. Bạnd dưuọc hóa thân và bạn của Tí =))))) )
+cau2: Một hôm nọ, Tí đang nằm trên giường và hồi tưởng lớp 6. Lúc đó tí sang nhà crush của Tí chơi là được crush dạy về bài số nguyên tố - hợp số. Tí lúc đó đang mải mê ngắm crush nên không chú ý. Bất chợt crush hỏi tí rằng: "Cậu có thể nào tìm cho tớ số nguyên tố bé nhất nhưng mà lớn hơn N được honggg :3". Nghe thấy thế, Tí liền khoái chí nhưng cậu ta rất dở về Toán nên cậu ta nhờ bạn xử lí vụ này (Nếu *phi vụ* thành công thì bạn sẽ nhận được crush của Tí) (Nếu bạn hỏi đây chỉ là hồi tưởng thì bạn nhầm rồi. Bạn được hóa thân vào bạn của Tí =))))) )
 > yêu cầu: cho số N (1 < N <= 100000). Tìm số nguyên tố bé nhất nhưng lớn hơn N và xuất ra file cau2.out
 ```
 > input = 30
