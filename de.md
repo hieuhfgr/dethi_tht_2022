@@ -11,7 +11,7 @@ cau2: Một hôm nọ. Tí đang nằm trên giường và hồi tưởng lớp 
 > yêu cầu: cho số N (1 < N <= 100000). Tìm số nguyên tố bé nhất nhưng lớn hơn N và xuất ra file cau2.out
 ```
 > input = 30
-> cau3.out
+> cau2.out
 > 31
 ```
 cau3: Có N người qua đường được đánh số từ 1 đến n. Khi qua đường thành công, chỉ số của người qua đường thứ i sẽ được in ra. Biết rằng sẽ có N-1 người qua đường nhưng chỉ có một người bị bỏ lại. Hãy in ra chỉ số của người bị bỏ lại.
